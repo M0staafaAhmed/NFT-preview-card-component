@@ -77,12 +77,14 @@ body{
 .card .avatar img{
   width: 30px;
   border-radius: 50%;
+  margin-bottom: 0;
   border: 2px solid white;
 }
 
 .card .avatar p{
   margin-left: 10px;
   color: white;
+  margin-bottom: 0;
 }
 
 .card .avatar p span{
