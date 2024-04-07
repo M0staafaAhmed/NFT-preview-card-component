@@ -50,7 +50,7 @@ body{
 
 .card .content .eth img,
 .card .content .clock img{
-  width: 15px;
+  width: 10px;
 }
 
 .card .content .eth p,
@@ -68,10 +68,13 @@ body{
   padding-top: 10px;
   border-top: 1px solid #2a3c54;
   display: flex;
+  align-items: center;
 }
 
 .card .avatar img{
-  width: 20px;
+  width: 30px;
+  border-radius: 50%;
+  border: 2px solid white;
 }
 
 .card .avatar p{
