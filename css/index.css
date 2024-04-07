@@ -48,9 +48,12 @@ body{
   align-items: center;
 }
 
-.card .content .eth img,
-.card .content .clock img{
+.card .content .eth img{
   width: 10px;
+}
+
+.card .content .clock img{
+  width: 18px;
 }
 
 .card .content .eth p,
